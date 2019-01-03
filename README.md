@@ -1,1 +1,1 @@
-* Blackjack game python implementation
+# Blackjack game python implementation
